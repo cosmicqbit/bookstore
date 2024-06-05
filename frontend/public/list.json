@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "The Alchemist",
+    "title": "This books is one of the bestsellers in the genre of Non Fiction",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/3d-rendering-back-school-icon_23-2149589337.jpg?t=st=1717239821~exp=1717243421~hmac=7086e27b01efce8d1413eb9e4f1bfe802a8bf66c77e1d3ed6bca3c7899defb60&w=2000"
+  },
+  {
+    "id": 2,
+    "name": "Bahar e Shariat",
+    "title": "This books is one of the bestsellers in the genre of Non Fiction",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/3d-rendering-pen-ai-generated_23-2150695387.jpg?t=st=1717239849~exp=1717243449~hmac=e9ae5b45b8ec93dda7b421bcd7770e9cd23fad613ab458298e5a2cc0c9d38af7&w=2000"
+  },
+  {
+    "id": 3,
+    "name": "The Warrior",
+    "title": "This books is one of the bestsellers in the genre of Non Fiction",
+    "price": 30,
+    "category": "Self Helf",
+    "image": "https://img.freepik.com/free-photo/3d-rendering-pen-ai-generated_23-2150695387.jpg?t=st=1717239849~exp=1717243449~hmac=e9ae5b45b8ec93dda7b421bcd7770e9cd23fad613ab458298e5a2cc0c9d38af7&w=2000"
+  },
+  {
+    "id": 4,
+    "name": "12 Principles of Life",
+    "title": "This books is one of the bestsellers in the genre of Non Fiction",
+    "price": 0,
+    "category": "Self Helf",
+    "image": "https://img.freepik.com/free-photo/3d-rendering-pen-ai-generated_23-2150695387.jpg?t=st=1717239849~exp=1717243449~hmac=e9ae5b45b8ec93dda7b421bcd7770e9cd23fad613ab458298e5a2cc0c9d38af7&w=2000"
+  },
+  {
+    "id": 5,
+    "name": "The Revival of Religious Sciences",
+    "title": "This books is one of the bestsellers in the genre of Non Fiction",
+    "price": 1500,
+    "category": "Religion",
+    "image": "https://img.freepik.com/free-photo/3d-rendering-pen-ai-generated_23-2150695387.jpg?t=st=1717239849~exp=1717243449~hmac=e9ae5b45b8ec93dda7b421bcd7770e9cd23fad613ab458298e5a2cc0c9d38af7&w=2000"
+  },
+  {
+    "id": 6,
+    "name": "Kitab u Zakat",
+    "title": "This books is one of the bestsellers in the genre of Non Fiction",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/front-view-education-day-concept_23-2148779754.jpg?t=st=1717240093~exp=1717243693~hmac=8d893c2755f69506126e78946a1dc1d15ecbcbc3052dffa881a6a92c851a7cdd&w=2000"
+  },
+  {
+    "id": 7,
+    "name": "Minhaj ul Abideen",
+    "title": "This books is one of the bestsellers in the genre of Non Fiction",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/3d-rendering-back-school-icon_23-2149589337.jpg?t=st=1717239821~exp=1717243421~hmac=7086e27b01efce8d1413eb9e4f1bfe802a8bf66c77e1d3ed6bca3c7899defb60&w=2000"
+  },
+  {
+    "id": 8,
+    "name": "Al amnu wal Ula",
+    "title": "This books is one of the bestsellers in the genre of Non Fiction",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/3d-rendering-pen-ai-generated_23-2150695387.jpg?t=st=1717239849~exp=1717243449~hmac=e9ae5b45b8ec93dda7b421bcd7770e9cd23fad613ab458298e5a2cc0c9d38af7&w=2000"
+  },
+  {
+    "id": 9,
+    "name": "Junaid al Baghdadi",
+    "title": "This books is one of the bestsellers in the genre of Non Fiction",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-psd/3d-rendering-back-school-icon_23-2149589337.jpg?t=st=1717239821~exp=1717243421~hmac=7086e27b01efce8d1413eb9e4f1bfe802a8bf66c77e1d3ed6bca3c7899defb60&w=2000"
+  }
+]
